@@ -12,16 +12,19 @@ This repository contains three web development projects:
 - A well-designed and responsive landing page.
 - Built with HTML, CSS, and JavaScript.
 - Engaging UI with smooth animations.
+- **Live Demo**: [Landing Page](https://bright-hamster-6571ef.netlify.app/)
 
 ### 🎨 Portfolio Website
 - A fully responsive personal portfolio.
 - Showcases skills, projects, and contact details.
 - Built with HTML, CSS, JavaScript, and Bootstrap.
+- **Live Demo**: [Portfolio Website](https://lively-marshmallow-b0914b.netlify.app/)
 
 ### 🖩 Calculator
 - A simple yet functional calculator.
 - Built using JavaScript for interactive calculations.
 - Responsive design for mobile and desktop users.
+- **Live Demo**: [Calculator](https://remarkable-raindrop-741d17.netlify.app/)
 
 ## 🛠️ Tech Stack
 - **HTML** - Structure of the websites.
@@ -56,9 +59,6 @@ CodSoft/
 │   ├── style.css
 │   ├── script.js
 ```
-
-## 🔗 Live Demos
-You can host these projects on **Netlify**, **GitHub Pages**, or **Vercel**.
 
 ## 🤝 Contributions
 If you'd like to contribute, feel free to fork this repository and submit a pull request!
